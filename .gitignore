@@ -1,3 +1,4 @@
 **/bin
 **/obj
-/.vs/NewFeatures/v16
+/.vs
+/.vscode
